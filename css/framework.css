@@ -1,0 +1,13 @@
+.p-all {
+    padding: 30px;
+}
+
+.br-rad-50 {
+    border-radius: 50%;
+}
+.br-rad-8 {
+    border-radius: 10px;
+}
+.img-br {
+    border: 2px solid hsl(263, 71%, 74%);
+}
